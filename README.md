@@ -56,6 +56,10 @@
 
 * [Solid](https://github.com/ryansolid/solid)
 
+## Form libraries
+
+* [informed](https://github.com/joepuzzo/informed)
+
 ## Alternate languages
 
 * [ReScript](https://rescript-lang.org/)
