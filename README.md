@@ -21,6 +21,10 @@
 * [remix](https://remix.run/)
 * [RedwoodJS](https://redwoodjs.com/)
 
+## Runtimes
+
+* [Deno](https://deno.land/)
+
 ## Alternate languages
 
 * [ReScript](https://rescript-lang.org/)
