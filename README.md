@@ -21,6 +21,7 @@
 * [remix](https://remix.run/)
 * [RedwoodJS](https://redwoodjs.com/)
 * [Aleph.js](https://alephjs.org/) (for Deno)
+* [Next.js](https://nextjs.org/)
 
 ## Runtimes
 
