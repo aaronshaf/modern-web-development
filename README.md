@@ -27,6 +27,14 @@
 
 * [Deno](https://deno.land/)
 
+## Deploy tools
+
+* [Fab](https://fab.dev/)
+
+## Hosting platforms
+
+* [Vercel](https://vercel.com/)
+
 ## Alternate languages
 
 * [ReScript](https://rescript-lang.org/)
