@@ -13,3 +13,8 @@
 * [emotion](https://emotion.sh/)
 * [styled-components](https://styled-components.com/)
 * [Tailwind](https://tailwindcss.com/) (cf. [oceanwind](https://github.com/lukejacksonn/oceanwind))
+
+## Frameworks
+
+* [blitz](https://github.com/blitz-js/blitz)
+* [remix](https://remix.run/)
