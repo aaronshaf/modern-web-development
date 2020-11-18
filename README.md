@@ -16,6 +16,10 @@
 * [styled-components](https://styled-components.com/)
 * [Tailwind](https://tailwindcss.com/) (cf. [oceanwind](https://github.com/lukejacksonn/oceanwind))
 
+## Component libraries
+
+* [Chakra](https://chakra-ui.com/)
+
 ## Frameworks
 
 * [blitz](https://github.com/blitz-js/blitz)
