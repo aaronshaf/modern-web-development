@@ -19,6 +19,7 @@
 ## Component libraries
 
 * [Chakra](https://chakra-ui.com/)
+* [Tailwind UI](https://tailwindui.com/components) ($)
 
 ## Frameworks
 
