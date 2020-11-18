@@ -1,6 +1,7 @@
-## Build tool
+## Build tools
 
 * [Snowpack](https://www.snowpack.dev/)
+* [esbuild](https://github.com/evanw/esbuild/)
 
 ## State management
 
