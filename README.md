@@ -36,6 +36,12 @@
 
 * [Vercel](https://vercel.com/)
 
+## Databases
+
+* DynamoDB
+* PostgreSQL
+* [Fauna](https://fauna.com/)
+
 ## Database tools
 
 * [Prisma](https://www.prisma.io/)
