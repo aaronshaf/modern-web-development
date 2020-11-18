@@ -20,3 +20,8 @@
 * [blitz](https://github.com/blitz-js/blitz)
 * [remix](https://remix.run/)
 * [RedwoodJS](https://redwoodjs.com/)
+
+## Alternate languages
+
+* [ReScript](https://rescript-lang.org/)
+* [Grain](https://grain-lang.org/)
