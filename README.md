@@ -58,6 +58,10 @@
 * [V](https://vlang.io/)
 * [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)
 
+## Testing
+
+* [TestCafe](https://devexpress.github.io/testcafe/)
+
 ## Other
 
 * [KeystoneJS](https://www.keystonejs.com/)
