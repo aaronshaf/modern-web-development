@@ -40,6 +40,10 @@
 
 * [Prisma](https://www.prisma.io/)
 
+## React
+
+* [Solid](https://github.com/ryansolid/solid)
+
 ## Alternate languages
 
 * [ReScript](https://rescript-lang.org/)
