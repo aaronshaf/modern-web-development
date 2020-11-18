@@ -41,6 +41,7 @@
 * DynamoDB
 * PostgreSQL
 * [Fauna](https://fauna.com/)
+* [Cloudflare Workers Durable Objects](https://blog.cloudflare.com/introducing-workers-durable-objects/)
 
 ## Database tools
 
