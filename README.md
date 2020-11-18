@@ -61,6 +61,7 @@
 ## Testing
 
 * [TestCafe](https://devexpress.github.io/testcafe/)
+* [testing-library.com](https://testing-library.com/)
 
 ## Other
 
