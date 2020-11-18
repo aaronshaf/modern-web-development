@@ -31,3 +31,4 @@
 * [ReScript](https://rescript-lang.org/)
 * [Grain](https://grain-lang.org/)
 * [V](https://vlang.io/)
+* [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)
