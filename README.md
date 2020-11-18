@@ -2,6 +2,7 @@
 
 * [Snowpack](https://www.snowpack.dev/)
 * [esbuild](https://github.com/evanw/esbuild/)
+* [Rome](https://github.com/rome/tools)
 
 ## State management
 
