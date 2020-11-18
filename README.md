@@ -31,7 +31,7 @@
 
 * [Fab](https://fab.dev/)
 
-## Hosting platforms
+## Hosts
 
 * [Vercel](https://vercel.com/)
 
