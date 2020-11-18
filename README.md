@@ -10,4 +10,4 @@
 
 * [emotion](https://emotion.sh/)
 * [styled-components](https://styled-components.com/)
-* [Tailwind](https://tailwindcss.com/)
+* [Tailwind](https://tailwindcss.com/) (cf. [oceanwind](https://github.com/lukejacksonn/oceanwind))
