@@ -6,6 +6,7 @@
 
 * [valtio](https://github.com/pmndrs/valtio)
 * [recoil](https://github.com/facebookexperimental/Recoil)
+* [zustand](https://github.com/pmndrs/zustand)
 
 ## Styling
 
