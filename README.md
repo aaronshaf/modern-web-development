@@ -36,6 +36,10 @@
 
 * [Vercel](https://vercel.com/)
 
+## Database tools
+
+* [Prisma](https://www.prisma.io/)
+
 ## Alternate languages
 
 * [ReScript](https://rescript-lang.org/)
