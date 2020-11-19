@@ -41,6 +41,10 @@
 
 * [Vercel](https://vercel.com/)
 
+## Fetching hooks
+
+* [react-query](https://github.com/tannerlinsley/react-query)
+
 ## Databases
 
 * DynamoDB
