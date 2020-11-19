@@ -44,6 +44,7 @@
 ## Fetching hooks
 
 * [react-query](https://github.com/tannerlinsley/react-query)
+* [sw](https://github.com/vercel/swr)
 
 ## Databases
 
