@@ -71,6 +71,7 @@
 
 * [TestCafe](https://devexpress.github.io/testcafe/)
 * [testing-library.com](https://testing-library.com/)
+* [cypress](https://www.cypress.io/)
 
 ## Other
 
