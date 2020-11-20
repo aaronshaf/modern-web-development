@@ -28,6 +28,8 @@
 * [remix](https://remix.run/)
 * [RedwoodJS](https://redwoodjs.com/)
 * [Next.js](https://nextjs.org/)
+* [KeystoneJS](https://www.keystonejs.com/)
+* [Flareact](https://flareact.com/)
 
 ## Node alternatiave
 
@@ -37,7 +39,7 @@
 ## Deploy tools
 
 * [Fab](https://fab.dev/)
-* [Flareact](https://flareact.com/)
+* [wrangler](https://github.com/cloudflare/wrangler) (for Cloudflare workers)
 
 ## Hosts
 
@@ -84,4 +86,3 @@
 ## Other
 
 * [Storybook](https://storybook.js.org/)
-* [KeystoneJS](https://www.keystonejs.com/)
