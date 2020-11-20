@@ -1,8 +1,9 @@
 ## Build tools
 
 * [Snowpack](https://www.snowpack.dev/)
-* [esbuild](https://github.com/evanw/esbuild/)
 * [Rome](https://github.com/rome/tools)
+* [esbuild](https://github.com/evanw/esbuild/)
+* [estrella](https://github.com/rsms/estrella) (based on esbuild)
 
 ## State management
 
