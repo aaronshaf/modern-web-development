@@ -6,7 +6,8 @@
 
 ## State management
 
-* [valtio](https://github.com/pmndrs/valtio)
+* [valtio](https://github.com/pmndrs/valtio) :fire:
+* [jotai](https://github.com/pmndrs/jotai)
 * [recoil](https://github.com/facebookexperimental/Recoil)
 * [zustand](https://github.com/pmndrs/zustand)
 
@@ -14,24 +15,24 @@
 
 * [emotion](https://emotion.sh/)
 * [styled-components](https://styled-components.com/)
-* [Tailwind](https://tailwindcss.com/) (cf. [oceanwind](https://github.com/lukejacksonn/oceanwind))
+* [Tailwind](https://tailwindcss.com/) :fire: (cf. [oceanwind](https://github.com/lukejacksonn/oceanwind))
 
 ## Component libraries
 
 * [Chakra](https://chakra-ui.com/)
-* [Tailwind UI](https://tailwindui.com/components) ($)
+* [Tailwind UI](https://tailwindui.com/components) ($) :fire:
 
 ## Frameworks
 
 * [blitz](https://github.com/blitz-js/blitz)
 * [remix](https://remix.run/)
 * [RedwoodJS](https://redwoodjs.com/)
-* [Aleph.js](https://alephjs.org/) (for Deno)
 * [Next.js](https://nextjs.org/)
 
-## Runtimes
+## Node alternatiave
 
 * [Deno](https://deno.land/)
+* [Aleph.js](https://alephjs.org/) (for Deno) :thinking:
 
 ## Deploy tools
 
@@ -40,17 +41,18 @@
 ## Hosts
 
 * [Vercel](https://vercel.com/)
+* [Netlify](https://www.netlify.com/)
 
 ## Fetching hooks
 
-* [react-query](https://github.com/tannerlinsley/react-query)
 * [swr](https://github.com/vercel/swr)
+* [react-query](https://github.com/tannerlinsley/react-query)
 
 ## Databases
 
-* DynamoDB
+* [DynamoDB](https://docs.aws.amazon.com/dynamodb/index.html) :pushpin:
 * PostgreSQL
-* [Fauna](https://fauna.com/)
+* [Fauna](https://fauna.com/) :question:
 * [Cloudflare Workers Durable Objects](https://blog.cloudflare.com/introducing-workers-durable-objects/) ([docs](https://developers.cloudflare.com/workers/learning/using-durable-objects))
 
 ## Database tools
@@ -59,7 +61,7 @@
 
 ## React
 
-* [Solid](https://github.com/ryansolid/solid)
+* [Solid](https://github.com/ryansolid/solid) :question:
 
 ## Form libraries
 
@@ -69,8 +71,8 @@
 
 * [ReScript](https://rescript-lang.org/)
 * [Grain](https://grain-lang.org/)
-* [V](https://vlang.io/)
 * [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)
+* [V](https://vlang.io/) :question:
 
 ## Testing
 
