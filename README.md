@@ -37,6 +37,7 @@
 ## Deploy tools
 
 * [Fab](https://fab.dev/)
+* [Flareact](https://flareact.com/)
 
 ## Hosts
 
