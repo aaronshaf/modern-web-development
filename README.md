@@ -84,6 +84,11 @@
 * [testing-library.com](https://testing-library.com/)
 * [cypress](https://www.cypress.io/)
 
+## Prototyping
+
+* [Figma](https://www.figma.com/)
+* [Framer](https://www.framer.com/)
+
 ## Other
 
 * [Storybook](https://storybook.js.org/)
