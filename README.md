@@ -3,6 +3,7 @@
 * [Snowpack](https://www.snowpack.dev/)
 * [Rome](https://github.com/rome/tools)
 * [esbuild](https://github.com/evanw/esbuild/)
+* [Vite](https://vitejs.dev/)
 * [estrella](https://github.com/rsms/estrella) (based on esbuild)
 
 ## State management
@@ -47,6 +48,8 @@
 
 * [Vercel](https://vercel.com/)
 * [Netlify](https://www.netlify.com/)
+* [Fly.io](https://fly.io/)
+* Cloudflare
 
 ## Fetching hooks
 
