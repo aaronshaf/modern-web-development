@@ -17,6 +17,7 @@
 * [emotion](https://emotion.sh/)
 * [styled-components](https://styled-components.com/)
 * [Tailwind](https://tailwindcss.com/) :fire: (cf. [oceanwind](https://github.com/lukejacksonn/oceanwind))
+* [Stylex](https://www.youtube.com/watch?v=ur-sGzUWId4)
 
 ## Component libraries
 
