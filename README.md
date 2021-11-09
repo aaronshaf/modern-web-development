@@ -55,6 +55,7 @@
 
 * [swr](https://github.com/vercel/swr)
 * [react-query](https://github.com/tannerlinsley/react-query)
+* [Apollo Client](https://www.apollographql.com/docs/react/)
 
 ## Databases
 
